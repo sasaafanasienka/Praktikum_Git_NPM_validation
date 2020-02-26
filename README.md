@@ -4,7 +4,7 @@
 ### Проект по темам Git, "командная строка", валидация
 
 Сссылка на работающую страницу:
-https://sasaafanasienka.github.io/
+https://sasaafanasienka.github.io/Praktikum_Git_NPM_validation/
 
 Версия 0.15
 
